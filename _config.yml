@@ -1,0 +1,51 @@
+url: https://www.tankmin.se
+baseurl:
+
+# Site settings
+title: Tankmin
+email: info@tankmin.se
+description: ""
+
+
+# Team names, titles and social links
+people:
+- name: Michael Walenius
+  pic: 1
+  position: Försäljning och Marknadsföring
+  social:
+    - title: twitter
+      url: https://twitter.com/StorWalle
+    - title: linkedin
+      url: https://se.linkedin.com/in/michaelwallenius
+
+- name: Alexander Winkler
+  pic: 2
+  position: Utvecklare
+  social:
+    - title: twitter
+      url: https://twitter.com/alexanderwink
+    - title: linkedin
+      url: https://se.linkedin.com/in/winkleralexander
+
+- name: Niklas Ottosson
+  pic: 3
+  position: Lead Developer & Arkitekt
+  social:
+    - title: twitter
+      url: https://twitter.com/NiklasOttosson
+    - title: linkedin
+      url: https://se.linkedin.com/in/niklas-ottosson-5a957b16
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/company/treks
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Bottnevägen 16B
+  - line: 423 50 Torslanda
+
+# Build settings
+markdown: kramdown
+permalink: pretty
